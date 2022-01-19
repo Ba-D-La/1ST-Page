@@ -1,0 +1,19 @@
+body{
+  background-color: #E6DDC4;
+  font-family: sans-serif;
+}
+.logo{
+  height: 200px;
+  width:250px;
+}
+hr{
+  background: none;
+  border-top: 1px;
+  border-color: black;
+  border-style: dashed;
+}
+h1{
+  text-align:center;
+  color: #7C99AC;
+  font-family: cursive;
+}
